@@ -3,6 +3,7 @@ def using_while
 while levitation_force < 10
   puts "#it s is now "
     leaviation_force +=
+  using_while  
 end
 
 
