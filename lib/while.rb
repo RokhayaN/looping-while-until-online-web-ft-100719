@@ -3,10 +3,7 @@ def using_while
   
   while levitation_force < 10
   puts "#{the leaviation_force} is less than 10"
-  leaviation_force -
-  
-	
-  #your code here
+  leaviation_force +=
 end
 
 
